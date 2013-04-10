@@ -1,0 +1,10 @@
+Package: org.gotohack.stealthjb
+Name: StealthJB
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: "Security tool to bypass jailbreak detection features during penetration tests...
+Homepage: https://github.com/GotoHack/StealthJB
+Maintainer: Gotohack
+Author: GotoHack
+Section: System
